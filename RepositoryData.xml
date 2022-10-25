@@ -1,0 +1,938 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <CommiterName>Daniel McNamara</CommiterName>
+    <CommitDate>2018-01-25 16:28:55+11:00</CommitDate>
+    <Message>first Kaggle API commit</Message>
+  </row>
+  <row>
+    <index>1</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2018-01-25 17:15:45+11:00</CommitDate>
+    <Message>Adding documentation</Message>
+  </row>
+  <row>
+    <index>2</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2018-01-25 17:24:10+11:00</CommitDate>
+    <Message>Fixing character escapes in Readme</Message>
+  </row>
+  <row>
+    <index>3</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2018-01-25 17:33:28+11:00</CommitDate>
+    <Message>Updating directory references</Message>
+  </row>
+  <row>
+    <index>4</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2018-01-25 17:37:23+11:00</CommitDate>
+    <Message>Updating installation info</Message>
+  </row>
+  <row>
+    <index>5</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2018-01-25 22:22:41+00:00</CommitDate>
+    <Message>Print warning message if user has unsafe permissions on api key</Message>
+  </row>
+  <row>
+    <index>6</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2018-01-29 12:10:40+11:00</CommitDate>
+    <Message>Merge pull request #1 from mxbi/master
+
+Print warning message if kaggle.json has unsafe permissions</Message>
+  </row>
+  <row>
+    <index>7</index>
+    <CommiterName>Daniel McNamara</CommiterName>
+    <CommitDate>2018-01-29 15:52:24+11:00</CommitDate>
+    <Message>client side API modifications inc. better flag names, download all dataset files to zip, download to current working directory, check credentials file not readable by others on non-Windows systems</Message>
+  </row>
+  <row>
+    <index>8</index>
+    <CommiterName>Daniel McNamara</CommiterName>
+    <CommitDate>2018-01-29 15:55:40+11:00</CommitDate>
+    <Message>client side API modifications inc. better flag names, download all dataset files to zip, download to current working directory, check credentials file not readable by others on non-Windows systems
+
+	modified:   README.md</Message>
+  </row>
+  <row>
+    <index>9</index>
+    <CommiterName>dpmcna</CommiterName>
+    <CommitDate>2018-01-29 15:57:37+11:00</CommitDate>
+    <Message>Merge branch 'master' of https://github.com/Kaggle/kaggle-api</Message>
+  </row>
+  <row>
+    <index>10</index>
+    <CommiterName>dpmcna</CommiterName>
+    <CommitDate>2018-01-30 14:23:26+11:00</CommitDate>
+    <Message>preparing Python package for release on PyPi</Message>
+  </row>
+  <row>
+    <index>11</index>
+    <CommiterName>dpmcna</CommiterName>
+    <CommitDate>2018-01-31 14:57:22+11:00</CommitDate>
+    <Message>better README, mostly Python 2 compatible</Message>
+  </row>
+  <row>
+    <index>12</index>
+    <CommiterName>dpmcna</CommiterName>
+    <CommitDate>2018-01-31 16:22:49+11:00</CommitDate>
+    <Message>adding .gitignore</Message>
+  </row>
+  <row>
+    <index>13</index>
+    <CommiterName>dpmcna</CommiterName>
+    <CommitDate>2018-01-31 17:19:59+11:00</CommitDate>
+    <Message>making sure unicode printed ok</Message>
+  </row>
+  <row>
+    <index>14</index>
+    <CommiterName>dpmcna</CommiterName>
+    <CommitDate>2018-01-31 17:21:04+11:00</CommitDate>
+    <Message>updating version number</Message>
+  </row>
+  <row>
+    <index>15</index>
+    <CommiterName>dpmcna</CommiterName>
+    <CommitDate>2018-01-31 17:27:59+11:00</CommitDate>
+    <Message>string conversion for Python 2 and 3</Message>
+  </row>
+  <row>
+    <index>16</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2018-01-30 23:35:50-08:00</CommitDate>
+    <Message>Small tweaks to README.md</Message>
+  </row>
+  <row>
+    <index>17</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2018-02-01 10:29:14+11:00</CommitDate>
+    <Message>README updates</Message>
+  </row>
+  <row>
+    <index>18</index>
+    <CommiterName>dpmcna</CommiterName>
+    <CommitDate>2018-02-01 10:50:29+11:00</CommitDate>
+    <Message>reordering competitions commands</Message>
+  </row>
+  <row>
+    <index>19</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2018-02-01 23:35:43+01:00</CommitDate>
+    <Message>Simplify the unicode logic to avoid bare exception</Message>
+  </row>
+  <row>
+    <index>20</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2018-02-02 00:09:52+01:00</CommitDate>
+    <Message>Update kaggle_api_extended.py</Message>
+  </row>
+  <row>
+    <index>21</index>
+    <CommiterName>dpmcna</CommiterName>
+    <CommitDate>2018-02-02 13:52:05+11:00</CommitDate>
+    <Message>typo fix</Message>
+  </row>
+  <row>
+    <index>22</index>
+    <CommiterName>dpmcna</CommiterName>
+    <CommitDate>2018-02-02 13:54:56+11:00</CommitDate>
+    <Message>update version number</Message>
+  </row>
+  <row>
+    <index>23</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2018-03-20 11:17:03+11:00</CommitDate>
+    <Message>Merge pull request #4 from cclauss/patch-2
+
+Thanks! This sounds resonable to me, no matter the nuances. I'm gonna merge this in now, hopefully this works given that we're internally maintaining a version on another repo :)</Message>
+  </row>
+  <row>
+    <index>24</index>
+    <CommiterName>Timo Bozsolik</CommiterName>
+    <CommitDate>2018-03-20 11:27:49+11:00</CommitDate>
+    <Message>API v1.1</Message>
+  </row>
+  <row>
+    <index>25</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2018-03-21 11:11:30-07:00</CommitDate>
+    <Message>metadata.json -&gt; datapackage.json</Message>
+  </row>
+  <row>
+    <index>26</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-04-16 10:09:12-04:00</CommitDate>
+    <Message>Update API to 1.2</Message>
+  </row>
+  <row>
+    <index>27</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2018-04-17 10:46:39-04:00</CommitDate>
+    <Message>Fix version</Message>
+  </row>
+  <row>
+    <index>28</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-04-18 13:54:40-04:00</CommitDate>
+    <Message>API v1.3</Message>
+  </row>
+  <row>
+    <index>29</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-04-18 19:19:30-04:00</CommitDate>
+    <Message>Rename LICENSE.txt to LICENSE</Message>
+  </row>
+  <row>
+    <index>30</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-04-18 19:19:30-04:00</CommitDate>
+    <Message>Delete LICENSE</Message>
+  </row>
+  <row>
+    <index>31</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-04-18 19:19:30-04:00</CommitDate>
+    <Message>Create LICENSE</Message>
+  </row>
+  <row>
+    <index>32</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-04-18 19:19:30-04:00</CommitDate>
+    <Message>Update README with License</Message>
+  </row>
+  <row>
+    <index>33</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-04-19 09:55:42-04:00</CommitDate>
+    <Message>Update API to v1.3.1</Message>
+  </row>
+  <row>
+    <index>34</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-04-20 07:53:53-04:00</CommitDate>
+    <Message>Add license headers</Message>
+  </row>
+  <row>
+    <index>35</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-04-24 10:33:38-04:00</CommitDate>
+    <Message>Update API to v1.3.2</Message>
+  </row>
+  <row>
+    <index>36</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-04-24 11:08:24-04:00</CommitDate>
+    <Message>Update API to v1.3.2.1</Message>
+  </row>
+  <row>
+    <index>37</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-04-24 17:17:50-04:00</CommitDate>
+    <Message>Update installation instructions</Message>
+  </row>
+  <row>
+    <index>38</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-04-25 13:39:56-04:00</CommitDate>
+    <Message>Update README.md
+
+Fix path for download</Message>
+  </row>
+  <row>
+    <index>39</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-04-25 13:39:56-04:00</CommitDate>
+    <Message>Update README.md
+
+Fix path where files are downloaded</Message>
+  </row>
+  <row>
+    <index>40</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-04-25 13:39:56-04:00</CommitDate>
+    <Message>Update README.md</Message>
+  </row>
+  <row>
+    <index>41</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-04-25 13:39:56-04:00</CommitDate>
+    <Message>Update README.md</Message>
+  </row>
+  <row>
+    <index>42</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-04-26 13:12:14-04:00</CommitDate>
+    <Message>Update API to to 1.3.3</Message>
+  </row>
+  <row>
+    <index>43</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-05-01 08:37:57-04:00</CommitDate>
+    <Message>Update API to 1.3.4</Message>
+  </row>
+  <row>
+    <index>44</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-05-02 12:50:09-04:00</CommitDate>
+    <Message>Update README.md
+
+```kaggle datasets create``` does not have an ```-r``` flag, so it should be removed from the example</Message>
+  </row>
+  <row>
+    <index>45</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-05-04 10:02:37-04:00</CommitDate>
+    <Message>Update API to 1.3.5</Message>
+  </row>
+  <row>
+    <index>46</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-05-07 12:28:43-04:00</CommitDate>
+    <Message>Update API to 1.3.6</Message>
+  </row>
+  <row>
+    <index>47</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-05-14 13:06:16-04:00</CommitDate>
+    <Message>Fix a path in a comment</Message>
+  </row>
+  <row>
+    <index>48</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-05-18 07:27:46-04:00</CommitDate>
+    <Message>Update API to 1.3.7</Message>
+  </row>
+  <row>
+    <index>49</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-05-18 08:34:16-04:00</CommitDate>
+    <Message>Update API to 1.3.8</Message>
+  </row>
+  <row>
+    <index>50</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-05-18 18:42:33-04:00</CommitDate>
+    <Message>Warn when there is nothing to download</Message>
+  </row>
+  <row>
+    <index>51</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-06-08 09:40:05-04:00</CommitDate>
+    <Message>Update API to 1.3.9</Message>
+  </row>
+  <row>
+    <index>52</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-06-08 09:40:35-04:00</CommitDate>
+    <Message>Update API to 1.3.9</Message>
+  </row>
+  <row>
+    <index>53</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-06-09 16:06:04-04:00</CommitDate>
+    <Message>Update API to 1.3.9.1</Message>
+  </row>
+  <row>
+    <index>54</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-06-10 12:34:48-04:00</CommitDate>
+    <Message>limit urlib3's version to avoid requests issue</Message>
+  </row>
+  <row>
+    <index>55</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-06-10 12:34:48-04:00</CommitDate>
+    <Message>Add explanatory comments that show this change as interim measures.</Message>
+  </row>
+  <row>
+    <index>56</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-06-10 12:43:46-04:00</CommitDate>
+    <Message>Update API to 1.3.10</Message>
+  </row>
+  <row>
+    <index>57</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-06-15 16:50:55-04:00</CommitDate>
+    <Message>Update README</Message>
+  </row>
+  <row>
+    <index>58</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-06-19 06:38:24-04:00</CommitDate>
+    <Message>dataset_initialize should return metadata file (and not nothing)</Message>
+  </row>
+  <row>
+    <index>59</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-06-19 06:38:24-04:00</CommitDate>
+    <Message>metadata creation needs to happen before creation</Message>
+  </row>
+  <row>
+    <index>60</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-06-25 08:13:04-04:00</CommitDate>
+    <Message>adding message to user that dataset creation takes time!</Message>
+  </row>
+  <row>
+    <index>61</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-06-25 08:13:04-04:00</CommitDate>
+    <Message>print of result (url) is redundant</Message>
+  </row>
+  <row>
+    <index>62</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-06-25 08:13:04-04:00</CommitDate>
+    <Message>adding same message to dataset_create_new</Message>
+  </row>
+  <row>
+    <index>63</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-06-25 08:23:49-04:00</CommitDate>
+    <Message>Respect KAGGLE_CONFIG_DIR environment variable</Message>
+  </row>
+  <row>
+    <index>64</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-06-25 08:23:49-04:00</CommitDate>
+    <Message>Describe usage of KAGGLE_CONFIG_DIR</Message>
+  </row>
+  <row>
+    <index>65</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-06-25 10:13:44-04:00</CommitDate>
+    <Message>Add .idea/ to gitignore</Message>
+  </row>
+  <row>
+    <index>66</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-06-25 10:40:13-04:00</CommitDate>
+    <Message>Update API to 3.12</Message>
+  </row>
+  <row>
+    <index>67</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-07-19 13:59:40-04:00</CommitDate>
+    <Message>Update API to 1.4.0</Message>
+  </row>
+  <row>
+    <index>68</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-07-19 14:03:37-04:00</CommitDate>
+    <Message>Remove .idea folder</Message>
+  </row>
+  <row>
+    <index>69</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-07-20 09:25:27-04:00</CommitDate>
+    <Message>Fix wiki references</Message>
+  </row>
+  <row>
+    <index>70</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-07-20 12:44:47-04:00</CommitDate>
+    <Message>Update formatting</Message>
+  </row>
+  <row>
+    <index>71</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-07-20 14:09:24-04:00</CommitDate>
+    <Message>Update API to 1.4.1</Message>
+  </row>
+  <row>
+    <index>72</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-07-20 15:50:45-04:00</CommitDate>
+    <Message>Update API to 1.4.2</Message>
+  </row>
+  <row>
+    <index>73</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-07-20 15:51:42-04:00</CommitDate>
+    <Message>Kernels ARE supported!
+
+removing `The biggest limitation at the moment is that kernels are not supported in any way at this point.  We do intend to implement support in the near future, though there's no ETA. `</Message>
+  </row>
+  <row>
+    <index>74</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-07-20 15:53:39-04:00</CommitDate>
+    <Message>Merge branch 'master' of https://github.com/Kaggle/kaggle-api</Message>
+  </row>
+  <row>
+    <index>75</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-07-20 15:53:51-04:00</CommitDate>
+    <Message>Fix changelog and readme</Message>
+  </row>
+  <row>
+    <index>76</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-07-30 07:14:41-04:00</CommitDate>
+    <Message>Update API to 1.4.3</Message>
+  </row>
+  <row>
+    <index>77</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-07-30 07:16:59-04:00</CommitDate>
+    <Message>Add release date to changelog</Message>
+  </row>
+  <row>
+    <index>78</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-07-30 13:05:16-04:00</CommitDate>
+    <Message>Update API to 1.4.4</Message>
+  </row>
+  <row>
+    <index>79</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-08-01 08:12:50-04:00</CommitDate>
+    <Message>Update API to 1.4.5</Message>
+  </row>
+  <row>
+    <index>80</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-08-06 14:32:03-04:00</CommitDate>
+    <Message>just adding tweaks for authentication</Message>
+  </row>
+  <row>
+    <index>81</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-08-06 14:32:03-04:00</CommitDate>
+    <Message>more tweaks, valueerror, etc</Message>
+  </row>
+  <row>
+    <index>82</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-08-06 14:32:03-04:00</CommitDate>
+    <Message>adding unittest start files</Message>
+  </row>
+  <row>
+    <index>83</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-08-06 14:32:03-04:00</CommitDate>
+    <Message>tweaking spacing</Message>
+  </row>
+  <row>
+    <index>84</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-08-06 14:32:03-04:00</CommitDate>
+    <Message>next round of changes to separate config and data default directories</Message>
+  </row>
+  <row>
+    <index>85</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-08-06 14:32:03-04:00</CommitDate>
+    <Message>adding subdirs back to handle multiple string paths passed into get_default_download_dir</Message>
+  </row>
+  <row>
+    <index>86</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-08-06 14:32:03-04:00</CommitDate>
+    <Message>updating tets</Message>
+  </row>
+  <row>
+    <index>87</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-08-06 14:32:03-04:00</CommitDate>
+    <Message>updating function names to not be private, and be more clear</Message>
+  </row>
+  <row>
+    <index>88</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-08-07 09:56:41-04:00</CommitDate>
+    <Message>Update API to 1.4.6</Message>
+  </row>
+  <row>
+    <index>89</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-08-17 15:45:59-04:00</CommitDate>
+    <Message>Update README.md</Message>
+  </row>
+  <row>
+    <index>90</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-08-17 15:50:09-04:00</CommitDate>
+    <Message>first chunk of work to add docstrings!</Message>
+  </row>
+  <row>
+    <index>91</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-08-17 15:50:09-04:00</CommitDate>
+    <Message>finish up docstrings</Message>
+  </row>
+  <row>
+    <index>92</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-08-29 09:09:10-04:00</CommitDate>
+    <Message>Update API to 1.4.7.1</Message>
+  </row>
+  <row>
+    <index>93</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-09-04 13:43:04-04:00</CommitDate>
+    <Message>Add info about kernels API
+
+In the following phrase there was no mention of the kernels API:&#13;
+&#13;
+&#13;
+&#13;
+&#13;
+The command line tool supports the following commands:&#13;
+&#13;
+``` &#13;
+kaggle competitions {list,files,download,submit,submissions,leaderboard}&#13;
+kaggle datasets {list, files, download, create, version, init}&#13;
+kaggle kernels {list, init, push, pull, output, status}&#13;
+kaggle config {view, set, unset}&#13;
+```</Message>
+  </row>
+  <row>
+    <index>94</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2018-09-10 09:08:43-04:00</CommitDate>
+    <Message>Update readme to reflect lack of python 2 support</Message>
+  </row>
+  <row>
+    <index>95</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-10-02 09:53:43-04:00</CommitDate>
+    <Message>README.md - path default current working directory
+
+README.md - kaggle config said the default path is ~/.kaggle rather than current working directory.</Message>
+  </row>
+  <row>
+    <index>96</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-10-19 10:19:00-04:00</CommitDate>
+    <Message>Warn user when kaggle.json not found
+
+If kaggle.json is not found and the credentials were also not set in the environment, raise an error showing the expected location of kaggle.json</Message>
+  </row>
+  <row>
+    <index>97</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-10-19 10:19:00-04:00</CommitDate>
+    <Message>Use field name constants</Message>
+  </row>
+  <row>
+    <index>98</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-10-19 10:19:00-04:00</CommitDate>
+    <Message>Adhere to 80 chars line width</Message>
+  </row>
+  <row>
+    <index>99</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-10-26 07:27:18-04:00</CommitDate>
+    <Message>Update to 1.5.0</Message>
+  </row>
+  <row>
+    <index>100</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-10-30 09:04:33-04:00</CommitDate>
+    <Message>Initial support for uploading subdirectories</Message>
+  </row>
+  <row>
+    <index>101</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-10-30 09:04:33-04:00</CommitDate>
+    <Message>make logging messages more consistent</Message>
+  </row>
+  <row>
+    <index>102</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-10-30 09:04:33-04:00</CommitDate>
+    <Message>docstring and better variable name</Message>
+  </row>
+  <row>
+    <index>103</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-10-30 09:04:33-04:00</CommitDate>
+    <Message>fix desc</Message>
+  </row>
+  <row>
+    <index>104</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-10-30 09:04:33-04:00</CommitDate>
+    <Message>addded command line flag</Message>
+  </row>
+  <row>
+    <index>105</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-10-30 09:04:33-04:00</CommitDate>
+    <Message>update docstrings</Message>
+  </row>
+  <row>
+    <index>106</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-10-30 09:04:33-04:00</CommitDate>
+    <Message>update README</Message>
+  </row>
+  <row>
+    <index>107</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-10-30 09:04:33-04:00</CommitDate>
+    <Message>clarify "skipping" messages</Message>
+  </row>
+  <row>
+    <index>108</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-10-30 09:04:33-04:00</CommitDate>
+    <Message>adding tar mode</Message>
+  </row>
+  <row>
+    <index>109</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-10-30 09:04:33-04:00</CommitDate>
+    <Message>fixed a bug with dataset creation</Message>
+  </row>
+  <row>
+    <index>110</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-10-31 14:29:11-04:00</CommitDate>
+    <Message>fix Python 2 error: 'file' object has no attribute 'readable' (issue #115)</Message>
+  </row>
+  <row>
+    <index>111</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-11-14 10:00:46-05:00</CommitDate>
+    <Message>Added cert_file to configuration</Message>
+  </row>
+  <row>
+    <index>112</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-11-14 10:00:46-05:00</CommitDate>
+    <Message>changed cert_file to ca_Certs</Message>
+  </row>
+  <row>
+    <index>113</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-11-14 10:00:46-05:00</CommitDate>
+    <Message>change ca_certs to ssl_ca_cert</Message>
+  </row>
+  <row>
+    <index>114</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-11-14 10:00:46-05:00</CommitDate>
+    <Message>fixed CONFIG_NAME_SSL_CA_CERT not being checked</Message>
+  </row>
+  <row>
+    <index>115</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-11-14 10:05:20-05:00</CommitDate>
+    <Message>Add omitted spaces in kaggle.json permissions warning</Message>
+  </row>
+  <row>
+    <index>116</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-11-30 14:18:25-05:00</CommitDate>
+    <Message>improve creating dataset document
+
+Creating a new dataset normally has two steps. At first, we should initiate a folder to be ready to upload files. It easily got confused for newbies.</Message>
+  </row>
+  <row>
+    <index>117</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2018-12-05 09:12:35-05:00</CommitDate>
+    <Message>Update API to 1.5.1.1</Message>
+  </row>
+  <row>
+    <index>118</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2019-01-07 11:17:57-05:00</CommitDate>
+    <Message>Update Readme</Message>
+  </row>
+  <row>
+    <index>119</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2019-01-07 11:17:57-05:00</CommitDate>
+    <Message>Update Readme</Message>
+  </row>
+  <row>
+    <index>120</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2019-01-28 15:06:37-05:00</CommitDate>
+    <Message>Update API to 1.5.2</Message>
+  </row>
+  <row>
+    <index>121</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2019-02-20 09:25:43-05:00</CommitDate>
+    <Message>Align docstring with actual default value</Message>
+  </row>
+  <row>
+    <index>122</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2019-02-20 09:25:43-05:00</CommitDate>
+    <Message>Align further docstrings with actual default values
+
+Affected docstrings:
+* `competition_leaderboard_download`
+* `dataset_download_file`
+* `dataset_download_files`
+* `download_file`
+* `kernels_pull`</Message>
+  </row>
+  <row>
+    <index>123</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2019-02-20 09:26:34-05:00</CommitDate>
+    <Message>Increase urllib3 version restriction</Message>
+  </row>
+  <row>
+    <index>124</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2019-02-20 09:37:04-05:00</CommitDate>
+    <Message>Update API to 1.5.3</Message>
+  </row>
+  <row>
+    <index>125</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2019-04-05 10:20:05-04:00</CommitDate>
+    <Message>Consistent whitespace in README</Message>
+  </row>
+  <row>
+    <index>126</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2019-04-22 08:52:30-04:00</CommitDate>
+    <Message>Update kaggle_api_extended.py
+
+Solves issue #173: kernels output fails if the kernel is creating output subfolders</Message>
+  </row>
+  <row>
+    <index>127</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2019-05-28 14:44:41-04:00</CommitDate>
+    <Message>Valid types and making kernels init more friendly</Message>
+  </row>
+  <row>
+    <index>128</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2019-05-28 15:58:38-04:00</CommitDate>
+    <Message>Update API to 1.5.4</Message>
+  </row>
+  <row>
+    <index>129</index>
+    <CommiterName>Paul Rondeau</CommiterName>
+    <CommitDate>2019-08-09 19:00:46-04:00</CommitDate>
+    <Message>release v.1.5.5</Message>
+  </row>
+  <row>
+    <index>130</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2019-08-22 17:15:41-07:00</CommitDate>
+    <Message>release v.1.5.5 (#207)
+
+release v.1.5.5</Message>
+  </row>
+  <row>
+    <index>131</index>
+    <CommiterName>Rebecca Ysteboe</CommiterName>
+    <CommitDate>2019-09-19 14:53:58-04:00</CommitDate>
+    <Message>Update API to 1.5.6</Message>
+  </row>
+  <row>
+    <index>132</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2020-03-16 18:33:13-04:00</CommitDate>
+    <Message>turn internet on by default (#253)
+
+b/135010857</Message>
+  </row>
+  <row>
+    <index>133</index>
+    <CommiterName>Jim Plotts</CommiterName>
+    <CommitDate>2020-09-03 16:59:31-04:00</CommitDate>
+    <Message>Release v1.5.8</Message>
+  </row>
+  <row>
+    <index>134</index>
+    <CommiterName>Vincent Roseberry</CommiterName>
+    <CommitDate>2020-10-21 18:22:55+00:00</CommitDate>
+    <Message>Release v1.5.9</Message>
+  </row>
+  <row>
+    <index>135</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2020-10-21 13:04:48-07:00</CommitDate>
+    <Message>Merge pull request #307 from Kaggle/release-1.5.9
+
+Release v1.5.9</Message>
+  </row>
+  <row>
+    <index>136</index>
+    <CommiterName>Jim Plotts</CommiterName>
+    <CommitDate>2020-11-30 16:43:14-05:00</CommitDate>
+    <Message>Release 1.5.10.</Message>
+  </row>
+  <row>
+    <index>137</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2021-03-12 14:57:29-08:00</CommitDate>
+    <Message>Update CHANGELOG.md
+
+updating changelog</Message>
+  </row>
+  <row>
+    <index>138</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2021-03-12 15:00:24-08:00</CommitDate>
+    <Message>Update kaggle_api_extended.py
+
+update version number</Message>
+  </row>
+  <row>
+    <index>139</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2021-03-12 15:00:56-08:00</CommitDate>
+    <Message>Update setup.py
+
+updating version number</Message>
+  </row>
+  <row>
+    <index>140</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2021-03-12 15:11:27-08:00</CommitDate>
+    <Message>Update kaggle_api_extended.py
+
+add code change</Message>
+  </row>
+  <row>
+    <index>141</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2021-03-12 16:28:38-08:00</CommitDate>
+    <Message>Update setup.py
+
+update version number</Message>
+  </row>
+  <row>
+    <index>142</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2021-03-12 16:29:28-08:00</CommitDate>
+    <Message>Update CHANGELOG.md
+
+update version number</Message>
+  </row>
+  <row>
+    <index>143</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2021-03-12 16:30:00-08:00</CommitDate>
+    <Message>Update kaggle_api_extended.py
+
+update version number</Message>
+  </row>
+  <row>
+    <index>144</index>
+    <CommiterName>GitHub</CommiterName>
+    <CommitDate>2021-03-15 08:49:05-07:00</CommitDate>
+    <Message>Merge pull request #334 from Kaggle/Release-v1.5.11
+
+Update files for release of api version 1.5.12</Message>
+  </row>
+</data>

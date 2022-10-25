@@ -1,0 +1,211 @@
+CommiterName,CommitDate,Message
+Daniel McNamara,2018-01-25 16:28:55+11:00,first Kaggle API commit
+GitHub,2018-01-25 17:15:45+11:00,Adding documentation
+GitHub,2018-01-25 17:24:10+11:00,Fixing character escapes in Readme
+GitHub,2018-01-25 17:33:28+11:00,Updating directory references
+GitHub,2018-01-25 17:37:23+11:00,Updating installation info
+GitHub,2018-01-25 22:22:41+00:00,Print warning message if user has unsafe permissions on api key
+GitHub,2018-01-29 12:10:40+11:00,"Merge pull request #1 from mxbi/master
+
+Print warning message if kaggle.json has unsafe permissions"
+Daniel McNamara,2018-01-29 15:52:24+11:00,"client side API modifications inc. better flag names, download all dataset files to zip, download to current working directory, check credentials file not readable by others on non-Windows systems"
+Daniel McNamara,2018-01-29 15:55:40+11:00,"client side API modifications inc. better flag names, download all dataset files to zip, download to current working directory, check credentials file not readable by others on non-Windows systems
+
+	modified:   README.md"
+dpmcna,2018-01-29 15:57:37+11:00,Merge branch 'master' of https://github.com/Kaggle/kaggle-api
+dpmcna,2018-01-30 14:23:26+11:00,preparing Python package for release on PyPi
+dpmcna,2018-01-31 14:57:22+11:00,"better README, mostly Python 2 compatible"
+dpmcna,2018-01-31 16:22:49+11:00,adding .gitignore
+dpmcna,2018-01-31 17:19:59+11:00,making sure unicode printed ok
+dpmcna,2018-01-31 17:21:04+11:00,updating version number
+dpmcna,2018-01-31 17:27:59+11:00,string conversion for Python 2 and 3
+GitHub,2018-01-30 23:35:50-08:00,Small tweaks to README.md
+GitHub,2018-02-01 10:29:14+11:00,README updates
+dpmcna,2018-02-01 10:50:29+11:00,reordering competitions commands
+GitHub,2018-02-01 23:35:43+01:00,Simplify the unicode logic to avoid bare exception
+GitHub,2018-02-02 00:09:52+01:00,Update kaggle_api_extended.py
+dpmcna,2018-02-02 13:52:05+11:00,typo fix
+dpmcna,2018-02-02 13:54:56+11:00,update version number
+GitHub,2018-03-20 11:17:03+11:00,"Merge pull request #4 from cclauss/patch-2
+
+Thanks! This sounds resonable to me, no matter the nuances. I'm gonna merge this in now, hopefully this works given that we're internally maintaining a version on another repo :)"
+Timo Bozsolik,2018-03-20 11:27:49+11:00,API v1.1
+GitHub,2018-03-21 11:11:30-07:00,metadata.json -> datapackage.json
+Rebecca Ysteboe,2018-04-16 10:09:12-04:00,Update API to 1.2
+GitHub,2018-04-17 10:46:39-04:00,Fix version
+Rebecca Ysteboe,2018-04-18 13:54:40-04:00,API v1.3
+Rebecca Ysteboe,2018-04-18 19:19:30-04:00,Rename LICENSE.txt to LICENSE
+Rebecca Ysteboe,2018-04-18 19:19:30-04:00,Delete LICENSE
+Rebecca Ysteboe,2018-04-18 19:19:30-04:00,Create LICENSE
+Rebecca Ysteboe,2018-04-18 19:19:30-04:00,Update README with License
+Rebecca Ysteboe,2018-04-19 09:55:42-04:00,Update API to v1.3.1
+Rebecca Ysteboe,2018-04-20 07:53:53-04:00,Add license headers
+Rebecca Ysteboe,2018-04-24 10:33:38-04:00,Update API to v1.3.2
+Rebecca Ysteboe,2018-04-24 11:08:24-04:00,Update API to v1.3.2.1
+Rebecca Ysteboe,2018-04-24 17:17:50-04:00,Update installation instructions
+Rebecca Ysteboe,2018-04-25 13:39:56-04:00,"Update README.md
+
+Fix path for download"
+Rebecca Ysteboe,2018-04-25 13:39:56-04:00,"Update README.md
+
+Fix path where files are downloaded"
+Rebecca Ysteboe,2018-04-25 13:39:56-04:00,Update README.md
+Rebecca Ysteboe,2018-04-25 13:39:56-04:00,Update README.md
+Rebecca Ysteboe,2018-04-26 13:12:14-04:00,Update API to to 1.3.3
+Rebecca Ysteboe,2018-05-01 08:37:57-04:00,Update API to 1.3.4
+Rebecca Ysteboe,2018-05-02 12:50:09-04:00,"Update README.md
+
+```kaggle datasets create``` does not have an ```-r``` flag, so it should be removed from the example"
+Rebecca Ysteboe,2018-05-04 10:02:37-04:00,Update API to 1.3.5
+Rebecca Ysteboe,2018-05-07 12:28:43-04:00,Update API to 1.3.6
+Rebecca Ysteboe,2018-05-14 13:06:16-04:00,Fix a path in a comment
+Rebecca Ysteboe,2018-05-18 07:27:46-04:00,Update API to 1.3.7
+Rebecca Ysteboe,2018-05-18 08:34:16-04:00,Update API to 1.3.8
+Rebecca Ysteboe,2018-05-18 18:42:33-04:00,Warn when there is nothing to download
+Rebecca Ysteboe,2018-06-08 09:40:05-04:00,Update API to 1.3.9
+Rebecca Ysteboe,2018-06-08 09:40:35-04:00,Update API to 1.3.9
+Rebecca Ysteboe,2018-06-09 16:06:04-04:00,Update API to 1.3.9.1
+Rebecca Ysteboe,2018-06-10 12:34:48-04:00,limit urlib3's version to avoid requests issue
+Rebecca Ysteboe,2018-06-10 12:34:48-04:00,Add explanatory comments that show this change as interim measures.
+Rebecca Ysteboe,2018-06-10 12:43:46-04:00,Update API to 1.3.10
+Rebecca Ysteboe,2018-06-15 16:50:55-04:00,Update README
+Rebecca Ysteboe,2018-06-19 06:38:24-04:00,dataset_initialize should return metadata file (and not nothing)
+Rebecca Ysteboe,2018-06-19 06:38:24-04:00,metadata creation needs to happen before creation
+Rebecca Ysteboe,2018-06-25 08:13:04-04:00,adding message to user that dataset creation takes time!
+Rebecca Ysteboe,2018-06-25 08:13:04-04:00,print of result (url) is redundant
+Rebecca Ysteboe,2018-06-25 08:13:04-04:00,adding same message to dataset_create_new
+Rebecca Ysteboe,2018-06-25 08:23:49-04:00,Respect KAGGLE_CONFIG_DIR environment variable
+Rebecca Ysteboe,2018-06-25 08:23:49-04:00,Describe usage of KAGGLE_CONFIG_DIR
+Rebecca Ysteboe,2018-06-25 10:13:44-04:00,Add .idea/ to gitignore
+Rebecca Ysteboe,2018-06-25 10:40:13-04:00,Update API to 3.12
+Rebecca Ysteboe,2018-07-19 13:59:40-04:00,Update API to 1.4.0
+Rebecca Ysteboe,2018-07-19 14:03:37-04:00,Remove .idea folder
+Rebecca Ysteboe,2018-07-20 09:25:27-04:00,Fix wiki references
+Rebecca Ysteboe,2018-07-20 12:44:47-04:00,Update formatting
+Rebecca Ysteboe,2018-07-20 14:09:24-04:00,Update API to 1.4.1
+Rebecca Ysteboe,2018-07-20 15:50:45-04:00,Update API to 1.4.2
+Rebecca Ysteboe,2018-07-20 15:51:42-04:00,"Kernels ARE supported!
+
+removing `The biggest limitation at the moment is that kernels are not supported in any way at this point.  We do intend to implement support in the near future, though there's no ETA. `"
+Rebecca Ysteboe,2018-07-20 15:53:39-04:00,Merge branch 'master' of https://github.com/Kaggle/kaggle-api
+Rebecca Ysteboe,2018-07-20 15:53:51-04:00,Fix changelog and readme
+Rebecca Ysteboe,2018-07-30 07:14:41-04:00,Update API to 1.4.3
+Rebecca Ysteboe,2018-07-30 07:16:59-04:00,Add release date to changelog
+Rebecca Ysteboe,2018-07-30 13:05:16-04:00,Update API to 1.4.4
+Rebecca Ysteboe,2018-08-01 08:12:50-04:00,Update API to 1.4.5
+Rebecca Ysteboe,2018-08-06 14:32:03-04:00,just adding tweaks for authentication
+Rebecca Ysteboe,2018-08-06 14:32:03-04:00,"more tweaks, valueerror, etc"
+Rebecca Ysteboe,2018-08-06 14:32:03-04:00,adding unittest start files
+Rebecca Ysteboe,2018-08-06 14:32:03-04:00,tweaking spacing
+Rebecca Ysteboe,2018-08-06 14:32:03-04:00,next round of changes to separate config and data default directories
+Rebecca Ysteboe,2018-08-06 14:32:03-04:00,adding subdirs back to handle multiple string paths passed into get_default_download_dir
+Rebecca Ysteboe,2018-08-06 14:32:03-04:00,updating tets
+Rebecca Ysteboe,2018-08-06 14:32:03-04:00,"updating function names to not be private, and be more clear"
+Rebecca Ysteboe,2018-08-07 09:56:41-04:00,Update API to 1.4.6
+Rebecca Ysteboe,2018-08-17 15:45:59-04:00,Update README.md
+Rebecca Ysteboe,2018-08-17 15:50:09-04:00,first chunk of work to add docstrings!
+Rebecca Ysteboe,2018-08-17 15:50:09-04:00,finish up docstrings
+Rebecca Ysteboe,2018-08-29 09:09:10-04:00,Update API to 1.4.7.1
+Rebecca Ysteboe,2018-09-04 13:43:04-04:00,"Add info about kernels API
+
+In the following phrase there was no mention of the kernels API:
+
+
+
+
+The command line tool supports the following commands:
+
+``` 
+kaggle competitions {list,files,download,submit,submissions,leaderboard}
+kaggle datasets {list, files, download, create, version, init}
+kaggle kernels {list, init, push, pull, output, status}
+kaggle config {view, set, unset}
+```"
+GitHub,2018-09-10 09:08:43-04:00,Update readme to reflect lack of python 2 support
+Rebecca Ysteboe,2018-10-02 09:53:43-04:00,"README.md - path default current working directory
+
+README.md - kaggle config said the default path is ~/.kaggle rather than current working directory."
+Rebecca Ysteboe,2018-10-19 10:19:00-04:00,"Warn user when kaggle.json not found
+
+If kaggle.json is not found and the credentials were also not set in the environment, raise an error showing the expected location of kaggle.json"
+Rebecca Ysteboe,2018-10-19 10:19:00-04:00,Use field name constants
+Rebecca Ysteboe,2018-10-19 10:19:00-04:00,Adhere to 80 chars line width
+Rebecca Ysteboe,2018-10-26 07:27:18-04:00,Update to 1.5.0
+Rebecca Ysteboe,2018-10-30 09:04:33-04:00,Initial support for uploading subdirectories
+Rebecca Ysteboe,2018-10-30 09:04:33-04:00,make logging messages more consistent
+Rebecca Ysteboe,2018-10-30 09:04:33-04:00,docstring and better variable name
+Rebecca Ysteboe,2018-10-30 09:04:33-04:00,fix desc
+Rebecca Ysteboe,2018-10-30 09:04:33-04:00,addded command line flag
+Rebecca Ysteboe,2018-10-30 09:04:33-04:00,update docstrings
+Rebecca Ysteboe,2018-10-30 09:04:33-04:00,update README
+Rebecca Ysteboe,2018-10-30 09:04:33-04:00,"clarify ""skipping"" messages"
+Rebecca Ysteboe,2018-10-30 09:04:33-04:00,adding tar mode
+Rebecca Ysteboe,2018-10-30 09:04:33-04:00,fixed a bug with dataset creation
+Rebecca Ysteboe,2018-10-31 14:29:11-04:00,fix Python 2 error: 'file' object has no attribute 'readable' (issue #115)
+Rebecca Ysteboe,2018-11-14 10:00:46-05:00,Added cert_file to configuration
+Rebecca Ysteboe,2018-11-14 10:00:46-05:00,changed cert_file to ca_Certs
+Rebecca Ysteboe,2018-11-14 10:00:46-05:00,change ca_certs to ssl_ca_cert
+Rebecca Ysteboe,2018-11-14 10:00:46-05:00,fixed CONFIG_NAME_SSL_CA_CERT not being checked
+Rebecca Ysteboe,2018-11-14 10:05:20-05:00,Add omitted spaces in kaggle.json permissions warning
+Rebecca Ysteboe,2018-11-30 14:18:25-05:00,"improve creating dataset document
+
+Creating a new dataset normally has two steps. At first, we should initiate a folder to be ready to upload files. It easily got confused for newbies."
+Rebecca Ysteboe,2018-12-05 09:12:35-05:00,Update API to 1.5.1.1
+Rebecca Ysteboe,2019-01-07 11:17:57-05:00,Update Readme
+Rebecca Ysteboe,2019-01-07 11:17:57-05:00,Update Readme
+Rebecca Ysteboe,2019-01-28 15:06:37-05:00,Update API to 1.5.2
+Rebecca Ysteboe,2019-02-20 09:25:43-05:00,Align docstring with actual default value
+Rebecca Ysteboe,2019-02-20 09:25:43-05:00,"Align further docstrings with actual default values
+
+Affected docstrings:
+* `competition_leaderboard_download`
+* `dataset_download_file`
+* `dataset_download_files`
+* `download_file`
+* `kernels_pull`"
+Rebecca Ysteboe,2019-02-20 09:26:34-05:00,Increase urllib3 version restriction
+Rebecca Ysteboe,2019-02-20 09:37:04-05:00,Update API to 1.5.3
+Rebecca Ysteboe,2019-04-05 10:20:05-04:00,Consistent whitespace in README
+Rebecca Ysteboe,2019-04-22 08:52:30-04:00,"Update kaggle_api_extended.py
+
+Solves issue #173: kernels output fails if the kernel is creating output subfolders"
+Rebecca Ysteboe,2019-05-28 14:44:41-04:00,Valid types and making kernels init more friendly
+Rebecca Ysteboe,2019-05-28 15:58:38-04:00,Update API to 1.5.4
+Paul Rondeau,2019-08-09 19:00:46-04:00,release v.1.5.5
+GitHub,2019-08-22 17:15:41-07:00,"release v.1.5.5 (#207)
+
+release v.1.5.5"
+Rebecca Ysteboe,2019-09-19 14:53:58-04:00,Update API to 1.5.6
+GitHub,2020-03-16 18:33:13-04:00,"turn internet on by default (#253)
+
+b/135010857"
+Jim Plotts,2020-09-03 16:59:31-04:00,Release v1.5.8
+Vincent Roseberry,2020-10-21 18:22:55+00:00,Release v1.5.9
+GitHub,2020-10-21 13:04:48-07:00,"Merge pull request #307 from Kaggle/release-1.5.9
+
+Release v1.5.9"
+Jim Plotts,2020-11-30 16:43:14-05:00,Release 1.5.10.
+GitHub,2021-03-12 14:57:29-08:00,"Update CHANGELOG.md
+
+updating changelog"
+GitHub,2021-03-12 15:00:24-08:00,"Update kaggle_api_extended.py
+
+update version number"
+GitHub,2021-03-12 15:00:56-08:00,"Update setup.py
+
+updating version number"
+GitHub,2021-03-12 15:11:27-08:00,"Update kaggle_api_extended.py
+
+add code change"
+GitHub,2021-03-12 16:28:38-08:00,"Update setup.py
+
+update version number"
+GitHub,2021-03-12 16:29:28-08:00,"Update CHANGELOG.md
+
+update version number"
+GitHub,2021-03-12 16:30:00-08:00,"Update kaggle_api_extended.py
+
+update version number"
+GitHub,2021-03-15 08:49:05-07:00,"Merge pull request #334 from Kaggle/Release-v1.5.11
+
+Update files for release of api version 1.5.12"

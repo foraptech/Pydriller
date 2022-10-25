@@ -1,0 +1,7 @@
+ a Your English marks is, 50
+Your Urdu marks is, 60
+Your maths marks is, 70
+Your total is 180Your percentage is60.0 a Your English marks is, 40
+Your Urdu marks is, 50
+Your maths marks is, 60
+Your total is 150Your percentage is50.0
